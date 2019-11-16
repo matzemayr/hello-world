@@ -1,2 +1,8 @@
 # hello-world
-This is my first repository
+
+Hallo!
+
+Ich bin Matze, ich designe User Interfaces und programmiere Spiele.
+
+Grüße aus UMT Crimetown,
+Matze
